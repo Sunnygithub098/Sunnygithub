@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunnygithub098
+- 👋 Hi, I’m @Sunny Sah
 - 👀 I’m interested in java and dsa
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
